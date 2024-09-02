@@ -1,2 +1,2 @@
 # Bankamatik_uygulamasi
-python dilinde bankamatik uygulaması 
+python bankamatik uygulaması 
